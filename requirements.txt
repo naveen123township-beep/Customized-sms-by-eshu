@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+fastapi
+uvicorn
+aiohttp
+starlette
+python-multipart
+python-multipart
+itsdangerous
