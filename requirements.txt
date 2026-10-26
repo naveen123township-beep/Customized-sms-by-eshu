@@ -4,3 +4,4 @@ aiohttp
 pymongo
 dnspython
 itsdangerous
+python-multipart
